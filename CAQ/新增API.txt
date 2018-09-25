@@ -1,20 +1,3 @@
-2018年7月15日 00:51:00
-.版本 2
-
-.DLL命令 Api_GetGroupMemberList_B, 文本型, "IRapi.dll", "Api_GetGroupMemberList_B", , 取得群成员列表，返回QQ号和身份Json格式信息 失败返回空
-    .参数 响应QQ, 文本型, , 机器人QQ
-    .参数 群号, 文本型, , 欲取群成员列表群号
-
-.版本 2
-
-.DLL命令 Api_SetDisGroupName, , "IRapi.dll", "Api_SetDisGroupName", , 修改讨论组名称
-    .参数 响应QQ, 文本型, , 机器人QQ
-    .参数 讨论组ID, 文本型, , 需执行的讨论组ID
-    .参数 讨论组名称, 文本型, , 需修改的名称
-
-
-
-
 2018年5月17日 00:19:00
 .版本 2
 
